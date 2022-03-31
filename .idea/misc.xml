@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/layout/activity_daftar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/layout/activity_hasil.xml" value="0.17074275362318841" />
+        <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/layout/activity_hasil2.xml" value="0.1" />
+        <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/layout/activity_kedua.xml" value="0.1" />
         <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/menu/menu.xml" value="0.12777777777777777" />
+        <entry key="..\:/Kuliah/.SMT 4/Sample Constraint Layout1/app/src/main/res/menu/popup_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
